@@ -11,8 +11,9 @@ For entertaitment purpose, 2-players game is also available.
 
 #### How to use/play
 
-1. Run the first cell in the notebook
-2. Select the number of training iterations and run the second cell. It requires as many as 20000 cycles for the AI to learn properly
-3. Run the third cell to play the game
+1. Open the Tic-Tac-Toe.ipynb
+2. Run the first cell in the notebook
+3. Select the number of training iterations and run the second cell. It requires as many as 20000 cycles for the AI to learn properly
+4. Run the third cell to play the game
 > - fill in 'smart' parameter (default = None). This option determines which computer player is 'smart'. It is very obvious that a smart computer outplays a random computer easily
 > - Choose number of players: if set to 0, then a demonstration between computer AIs will be shown
